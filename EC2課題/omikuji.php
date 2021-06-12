@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
     <meta charset="utf-8">
-    <title>おみくじ</title>
+    <title>おおおおおみくじです！</title>
     <link rel ="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -15,7 +15,7 @@
     <table border="1" id="targetTable">
       <thead>
         <tr>
-          <td>No.</td>
+          <td>NNNNo.</td>
           <td>おみくじ結果</td>
           <td>時間</td>
         </tr>
