@@ -16,7 +16,7 @@
       <thead>
         <tr>
           <td>NNNNo.</td>
-          <td>おみくじ結果</td>
+          <td>onegaiみくじ結果</td>
           <td>時間</td>
         </tr>
       </thead>
