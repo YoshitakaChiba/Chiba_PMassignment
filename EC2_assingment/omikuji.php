@@ -22,7 +22,7 @@
       </thead>
 
       <?php
-      $s=new PDO("mysql:host=localhost;dbname=db1","root", "Yo1_brz0");
+      $s=new PDO("mysql:host=database-1.c64af0vgcsyg.ap-northeast-1.rds.amazonaws.com;dbname=DB1_PM","admin", "Elatico10");
       $re=$s->query("SELECT * FROM tb_omi ORDER BY No DESC");
 
       while($kekka=$re->fetch()){
