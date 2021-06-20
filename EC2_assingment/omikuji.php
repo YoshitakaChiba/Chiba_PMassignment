@@ -15,7 +15,7 @@
     <table border="1" id="targetTable">
       <thead>
         <tr>
-          <td>No.</td>
+          <td>NNNo.</td>
           <td>おみくじ結果</td>
           <td>時間</td>
         </tr>
