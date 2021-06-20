@@ -2,9 +2,9 @@
 
 try{
     $s = new PDO(
-        "mysql:host=localhost;dbname=db1",
-        "root",
-         "Yo1_brz0",
+        "mysql:host=database-1.c64af0vgcsyg.ap-northeast-1.rds.amazonaws.com;dbname=DB1_PM",
+        "admin",
+         "Elatico10",
         [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
             PDO::ATTR_EMULATE_PREPARES => false,
